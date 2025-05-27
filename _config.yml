@@ -6,8 +6,7 @@ description: >-
 baseurl: ""
 url: "https://kanayuki.github.io"
 # theme: minimal
-remote_theme: pages-themes/minimal
-
+remote_theme: jekyll/minimal
 
 header_pages:
   - about.md
