@@ -1,0 +1,12 @@
+title: Yuki 的个人博客
+email: yunfeiaihuiling@gmail.com
+author: Yuki
+description: >- 
+  分享设计与编程的乐趣，记录我的成长之路。
+baseurl: ""
+url: "https://kanayuki.github.io"
+theme: minima
+
+header_pages:
+  - about.md
+  - _projects/index.md
