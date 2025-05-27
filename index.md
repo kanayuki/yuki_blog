@@ -12,3 +12,5 @@ title: 欢迎来到我的博客
 - [博客文章](blog)
 
 欢迎浏览！
+
+{% include showcase.md %}
