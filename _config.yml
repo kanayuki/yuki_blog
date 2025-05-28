@@ -3,7 +3,7 @@ email: yunfeiaihuiling@gmail.com
 author: Yuki
 description: >- 
   分享设计与编程的乐趣，记录我的成长之路。
-baseurl: ""
+baseurl: "/yuki_blog"
 url: "https://kanayuki.github.io"
 # theme: minimal
 remote_theme: "jekyll/minima@1e8a445"
